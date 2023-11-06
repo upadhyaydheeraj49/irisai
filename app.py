@@ -31,4 +31,4 @@ def get_text_response(user_message,history):
 demo = gr.ChatInterface(get_text_response)
 
 if __name__ == "__main__":
-    demo.launch() #To create a public link, set `share=True` in `launch()`. To enable errors and logs, set `debug=True` in `launch()`.
+    demo.launch(debug=True) #To create a public link, set `share=True` in `launch()`. To enable errors and logs, set `debug=True` in `launch()`.
