@@ -1,2 +1,12 @@
-# irisai
-Iris ia an AI model which try help you to find the appropriate solution of your problem. This an LLM(Language Learning Model) which uses gpt-3.5-turbo.
+---
+title: Dheerajmodel
+emoji: ⚡
+colorFrom: indigo
+colorTo: indigo
+sdk: gradio
+sdk_version: 4.0.2
+app_file: app.py
+pinned: false
+---
+
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
